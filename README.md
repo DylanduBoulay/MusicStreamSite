@@ -1,7 +1,7 @@
 # MusicStreamSite
 A single-page application Project in the form of a music streaming website.
 
-Developed using HTML, REST, Javascript, PHP and SQL.
+Developed using HTML, AJAX, REST,Javascript, PHP and SQL.
 
 Designed to be run locally using XAMPP. 
 For reference, I used XAMPP V3.3.0. Using the Apache and MYSQL modules.
