@@ -6,12 +6,17 @@ Developed using HTML, REST, Javascript, PHP and SQL.
 Designed to be run locally using XAMPP. 
 For reference, I used XAMPP V3.3.0. Using the Apache and MYSQL modules.
 
-
 This project contains all the client and server functionality and a MySQL database export. 
+   
 
-As for the files in this repo, once XAMPP has finished installation and you have added both the MySQL and Apache modules, in your local directory for XAMPP will be a file called 'htdocs'. Place the contents of this repo into this file, as it will need to be seen and made hostable via XAMPP. 
+**Hosting and XAMPP**
 
-How to access the website.
+Head over to https://www.apachefriends.org/ and grab XAMPP. 
+Select both the Apache and MySQL modules when installing XAMPP. Once XAMPP has finished installation, and you have added both the MySQL and Apache modules, navigate your XAMPP installation folder for a file called 'htdocs'. 
+Place the contents of this repo into that file, as it will need to be seen and made hostable via XAMPP. 
+
+   
+**How to access this project.**
 
 1. To access the website, launch the XAMPP control panel, and start both MySQL and Apache modules.
 2. You will be missing the required data to draw the music from and must import this file into your XAMPP database via the phpmyadmin window.
