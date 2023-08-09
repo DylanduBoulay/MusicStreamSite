@@ -17,5 +17,5 @@ How to access the website.
 2. You will be missing the required data to draw the music from and must import this file into your XAMPP database via the phpmyadmin window.
     i) This can be accessed using a browser by typing in localhost/phpmyadmin  into the URL line and going to  phpmyadmin > Import.
     ii) Select the file located in this repo called musicstreamsite.sql under the MySQLImport file.
-3. Double check the repo files are stored in your XAMPP directory under XAMPP > htdocs > *musicstreamsite*
-4. Using your browse, pull up a new tab and type in localhost/musicstreamsite.
+4. Double check the repo files are stored in your XAMPP directory under XAMPP > htdocs > *musicstreamsite*
+5. Using your browse, pull up a new tab and type in localhost/musicstreamsite.
