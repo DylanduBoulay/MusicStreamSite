@@ -22,3 +22,4 @@ How to access the website.
    
 4. Double check the repo files are stored in your XAMPP directory under XAMPP > htdocs > *musicstreamsite*
 5. Using your browse, pull up a new tab and type in localhost/musicstreamsite.
+6. Process to create an account to test the project
