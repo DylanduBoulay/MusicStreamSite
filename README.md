@@ -6,7 +6,7 @@ Developed using HTML, REST, Javascript, PHP and SQL.
 Designed to be run locally using XAMPP. 
 For reference, I used XAMPP V3.3.0. Using the Apache and MYSQL modules.
 
-This project contains all the client and server functionality and a MySQL database export. 
+This project contains all the client and server functionality, a MySQL database export and the media required to operate the website (images & audio). 
    
 
 ## Hosting and XAMPP
